@@ -91,11 +91,9 @@ The dashboard uses Excel-based visualizations and filters to make analysis more 
 
 ## 🖼️ Dashboard Preview
 
-_Add a screenshot of your dashboard here._
 
-Example:
-
-![Supermarket Sales Dashboard](dashboard.png)
+![Supermarket Sales Dashboard](dashboard.png<img width="588" height="419" alt="image" src="https://github.com/user-attachments/assets/e4ffa0ca-5172-49f2-9995-29b6ad7eee68" />
+)
 
 ---
 

@@ -115,7 +115,7 @@ This project demonstrates my ability to:
 
 ## 👩‍💻 Author
 
-**Jyoti Maurya**
+**Jyoti **
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 

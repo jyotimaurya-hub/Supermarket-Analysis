@@ -95,7 +95,7 @@ The dashboard uses Excel-based visualizations and filters to make analysis more 
 ![Supermarket Sales Dashboard](dashboard.png)
 
 ### 📈 Detailed Analysis
-![Supermarket Detailed Analysis](detailed page.png)
+![Supermarket Detailed Analysis](detailed%20page.png)
 
 
 ---
